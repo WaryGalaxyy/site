@@ -1,3 +1,0 @@
-jobs:
-on:
- workflow_dispatch:
